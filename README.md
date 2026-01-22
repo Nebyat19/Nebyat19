@@ -1,28 +1,105 @@
-<h1 align="center">Hi 👋, I'm Nebyat B(hetu)</h1>
-<h3 align="center">A passionate back-end and bot developer from Ethiopia</h3>
+<h1 align="center">
+<span style="color:#0e75b6;">Nebyat B</span> (Hetu)
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nebyat19&label=Profile%20views&color=0e75b6&style=flat" alt="nebyat19" /> </p>
 
-<p align="left"> <a href="https://twitter.com/delusionary_" target="blank"><img src="https://img.shields.io/twitter/follow/delusionary_?logo=twitter&style=for-the-badge" alt="delusionary_" /></a> </p>
+<h3 align="center">
+<span style="color:#0e75b6;">Full Stack Developer</span> •
+<span style="color:#22c55e;">Automation</span> •
+<span style="color:#8b5cf6;">AI Integration</span>
+</h3>
 
-- 🔭 I’m currently working on **DeviceGuard Registry**
-
-- 👨‍💻 All of my projects are available at [portfolio.tiletsolution.com](portfolio.tiletsolution.com)
-
-- 📝 I regularly write articles on [blog.tiletsolution.com](blog.tiletsolution.com)
-
-- 💬 Ask me about **PHP,Laravel**
-
-- 📫 How to reach me **adamweiss651@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/delusionary_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delusionary_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nebyat19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nebyat19" height="30" width="40" /></a>
-<a href="https://fb.com/nebyat.bekele.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nebyat.bekele.5" height="30" width="40" /></a>
-<a href="https://instagram.com/hetu_getu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hetu_getu" height="30" width="40" /></a>
+<p align="center">
+I design and maintain web systems, build APIs, and automate workflows that save time and reduce manual work.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nebyat19&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🛠 What I Do
+
+• Full stack web development  
+• Backend systems and API design  
+• Software maintenance and debugging  
+• AI integration and chatbot development  
+• Automation workflows with n8n and scripts  
+• RAG based intelligent systems  
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Automation and AI
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat)
+![AI](https://img.shields.io/badge/AI-8B5CF6?style=flat)
+![Chatbots](https://img.shields.io/badge/Chatbots-6366F1?style=flat)
+![RAG](https://img.shields.io/badge/RAG-22C55E?style=flat)
+
+---
+
+## 🔭 Current Focus
+
+Building reliable software, automation pipelines, and AI powered tools for real world impact.
+
+---
+
+## 🗂 Portfolio and Writing
+
+• Portfolio: [https://nebyat.com  ](https://nebyat.vercel.app/)
+• Blog: [@tiletsolution ](https://t.me/tiletsolution)
+
+---
+
+## 🖋 Contact
+
+Email: adamweiss651@gmail.com  
+
+---
+
+## 🖇 Connect With Me
+<p align="left">
+  <!-- X (Twitter) -->
+  <a href="https://twitter.com/delusionary_" target="_blank">
+    <img src="https://img.shields.io/badge/X-@delusionary_-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/nebyat19" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@nebyat19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/hetu_getu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@hetu_getu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
+
+  <!-- Telegram -->
+  <a href="https://t.me/getahun_getu" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@getahun_getu-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+
 
