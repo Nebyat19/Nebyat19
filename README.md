@@ -59,24 +59,12 @@ I design and maintain web systems, build APIs, and automate workflows that save 
 
 ---
 
-## 🔭 Current Focus
+## 🗂 Portfolio, Writing & Contact
 
-Building reliable software, automation pipelines, and AI powered tools for real world impact.
+• Portfolio: [https://nebyat.vercel.app](https://nebyat.vercel.app)  
+• Blog / Updates: [@tiletsolution](https://t.me/tiletsolution)  
+• Email: adamweiss651@gmail.com 
 
----
-
-## 🗂 Portfolio and Writing
-
-• Portfolio: [https://nebyat.com  ](https://nebyat.vercel.app/)
-• Blog: [@tiletsolution ](https://t.me/tiletsolution)
-
----
-
-## 🖋 Contact
-
-Email: adamweiss651@gmail.com  
-
----
 
 ## 🖇 Connect With Me
 <p align="left">
